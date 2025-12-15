@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 good aftrernoon learning git
 =======
 learning 
 hiiiii
+>>>>>>> parent of 8675b48 (Good afternoon added in f6.txt)
+=======
+learning
 >>>>>>> parent of 8675b48 (Good afternoon added in f6.txt)
